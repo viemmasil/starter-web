@@ -8,6 +8,8 @@ Sample website with plenty of files for demos
 
 ## Deployment
 
+Check back for updates.
+
 ## Execution
 
 ## Testing

@@ -17,3 +17,7 @@ For further development after it is finished.
 ## Final Comments
 
 This is all for studying purposes.
+
+### Copyright
+
+2017 Copyright message.

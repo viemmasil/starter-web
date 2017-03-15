@@ -12,4 +12,8 @@ Sample website with plenty of files for demos
 
 ## Testing
 
+For further development after it is finished.
+
 ## Final Comments
+
+This is all for studying purposes.
